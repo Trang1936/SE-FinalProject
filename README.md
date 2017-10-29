@@ -1,7 +1,7 @@
 ﻿# SE-FinalProject
 
-## # SINHVIENHUSSINHVIENHUS
-
+## # SINHVIENHUSSINHVIENHUS 
+Địa chỉ: http://se2017s1g1.esy.es/index.php
 ## Giới thiệu
 
 SINHVIENHUS là một trang diễn đàn chia sẻ thông tin tài liệu, đề thi, cập nhật thông tin, sự kiện giữa nhà trường và học sinh, sinh viên trường đại học Khoa Học Tự Nhiên. Mục tiêu chính của diễn đàn là xây dựng nên một công đồng kết nối trao đổi thông tin để có thể hỗ trợ tốt nhất cho sinh viên trong việc học tập, chia sẻ kinh nghiệm và giải trí.
